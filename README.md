@@ -1,1 +1,1 @@
-# intro-to-CSS-Assaignment-2
+# Intro-to-CSS-Assignment-2
